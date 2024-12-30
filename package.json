@@ -1,15 +1,24 @@
 {
   "name": "vue-button-package",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "vue",
+    "button",
+    "component",
+    "vue3"
+  ],
+  "author": "Coders Garden",
   "license": "ISC",
-  "description": "",
+  "description": "A simple Vue 3 button component",
   "dependencies": {
     "vue": "^3.2.31"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-codersgarden/vue-button-package.git"
   }
 }
